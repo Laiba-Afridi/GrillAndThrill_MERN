@@ -18,7 +18,6 @@ const addFood = async (req, res) => {
 
   const { name, description, price, category } = req.body;
 
-
   if (!name || !description || !price || !category) {
     return res.status(400).json({ success: false, message: "All fields are required." });
   }

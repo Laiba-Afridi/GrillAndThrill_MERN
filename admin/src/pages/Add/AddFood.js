@@ -35,7 +35,6 @@ const AddFood = ({url}) => {
     if (image) {
       formData.append("image", image);
     }
-
     try {
       const res = await axios.post(`${url}/api/food/add`, formData, {
         headers: {
