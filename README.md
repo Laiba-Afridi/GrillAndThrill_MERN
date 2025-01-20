@@ -1,1 +1,1 @@
-# GrillAndThrill_MERN
+GrillAndThrill is a food ordering website focusing on delicious burgers, developed using the MERN stack. The frontend is built with React, featuring a user-friendly and responsive interface. The project uses dynamic components and a modular design for scalability.This project highlights a practical understanding of MERN technologies and teamwork.
